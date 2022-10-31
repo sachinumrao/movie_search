@@ -9,6 +9,6 @@ CMU Movie Summray Dataset [http://www.cs.cmu.edu/~ark/personas/]
 
 ## Tools
 - Sentence-transformer for encoding text to vectors
-- Annoy from Spotify for Nearest Neghbor Search
+- Annoy from Spotify for Nearest Neighbor Search
 - Streamlit for dashboard
 
