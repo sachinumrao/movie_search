@@ -2,7 +2,7 @@
 A semantic search for movies
 
 ## Description
-- Aim to build a semantic search for movies using movie description and movie title using bert encoding and nearest enighbor search
+- Aim to build a semantic search for movies using movie description and movie title using bert encoding and nearest neighbor search
 
 ## Dataset
 CMU Movie Summray Dataset [http://www.cs.cmu.edu/~ark/personas/]
